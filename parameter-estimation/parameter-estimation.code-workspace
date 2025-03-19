@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "parameter-estimation",
+			"path": "."
+		},
+		{
+			"name": "data-copy",
+			"path": "../../../Documents/code-stuff/Grav Waves/data-copy"
+		},
+		{
+			"name": "data-copy",
+			"path": "../../../Documents/code-stuff/Astro_2/data-copy"
+		}
+	],
+	"settings": {}
+}
